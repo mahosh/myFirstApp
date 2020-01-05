@@ -1,0 +1,30 @@
+[
+    {
+        "fName": "Jennifer",
+        "lName": "Lawrence",
+        "bDate": "1990-08-15",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BOTU3NDE5MDQ4MV5BMl5BanBnXkFtZTgwMzE5ODQ3MDI@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm2225369/"
+    },
+    {
+        "fName": "Jeff",
+        "lName": "Bridges",
+        "bDate": "1949-12-04",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNTU1NjM4MDYzMl5BMl5BanBnXkFtZTcwMjIwMjMyMw@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0000313/"
+    },
+    {
+        "fName": "Halle",
+        "lName": "Berry",
+        "bDate": "1966-08-14",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BMjIxNzc5MDAzOV5BMl5BanBnXkFtZTcwMDUxMjMxMw@@._V1_UY317_CR10,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0000932/"
+    },
+    {
+        "fName": "Keanu",
+        "lName": "Reeves",
+        "bDate": "1964-09-02",
+        "imgLink": "https://m.media-amazon.com/images/M/MV5BNjUxNDcwMTg4Ml5BMl5BanBnXkFtZTcwMjU4NDYyOA@@._V1_UY317_CR15,0,214,317_AL_.jpg",
+        "imdbLink": "https://www.imdb.com/name/nm0000206/"
+    }
+]
