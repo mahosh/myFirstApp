@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './Gallery.css';
 import actorsData from './Actors.json';
 import ActorComp from "./ActorComp.js";
@@ -15,9 +14,9 @@ export default class Gallery extends Component {
       
     }
     render() {
+        console.log(this.state.actors);
         return(
             <div>
-                {actors}
             </div>
         )
     }

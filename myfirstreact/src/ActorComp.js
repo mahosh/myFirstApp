@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './Actor.css';
 import Card from 'react-bootstrap/Card';
 
@@ -12,7 +11,7 @@ export default class ActorComp extends Component {
             bDate: props.bDate,
             imgLink: props.imgLink,
             imdbLink: props.imdbLink,
-            age: ageInYears(){
+            age: function(){
                 const currentYear = new Date().getFullYear();
                 const birthDate = new Date(this.bDate);
                 var currentAge = currentYear - birthDate.getFullYear();
@@ -20,9 +19,6 @@ export default class ActorComp extends Component {
             }
         }
     }
-
-
-
     render() {
         return(
             <Card>

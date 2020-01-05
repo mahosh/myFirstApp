@@ -1,4 +1,4 @@
-{ "actorsData": [
+[
     {
         "fName": "Jennifer",
         "lName": "Lawrence",
@@ -28,4 +28,3 @@
         "imdbLink": "https://www.imdb.com/name/nm0000206/"
     }
 ]
-}
