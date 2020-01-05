@@ -3,7 +3,7 @@ export default class ActorData {
     constructor(fName, lName, bDate, imgLink, imdbLink) {
       
       this.fName = fName;
-      this.lName = fName;
+      this.lName = lName;
       this.bDate = bDate;
       this.imgLink = imgLink;
       this.imdbLink = imdbLink;
